@@ -4,7 +4,7 @@
 
 </div>
 <div style="text-align: center">
-	<h3 style="font-size:20px; "><b>Nome do Sistema</b></h3>
+	<h3 style="font-size:40px; "><b>Nome do Sistema</b></h3>
   <p style="margin:0px; padding: 0px;">Breve descrição explicando o propósito do sistema!</p>
   <a href=""><b>Explore a api >></b></a>
 </div>
