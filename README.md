@@ -1,14 +1,11 @@
-  <div style="align:center" >
-    <img height="70" src="https://uploads-ssl.webflow.com/5d0a9843727236542bc670a9/5e42efe340f4174501d1eaf7_LogoGentrop%404x.png" />
-    <h3 style="font-size:20px; "><b>Nome do Sistema</b></h3>
-    <p style="margin:0px; padding: 0px;">Breve descrição explicando o propósito do sistema!</p>
-    <a href=""><b>Explore a api >></b></a>
-    <div style="margin:15px">
-      <a href="">Squad</a> ·
-      <a href="">Report Bug</a> ·
-      <a href="">Request Feature</a>
-    </div>
-  </div>
+<div style="align:center" >
+  <img height="70" src="https://uploads-ssl.webflow.com/5d0a9843727236542bc670a9/5e42efe340f4174501d1eaf7_LogoGentrop%404x.png" />
+</div>
+<div style="text-align: center">
+	<h3 style="font-size:20px; "><b>Nome do Sistema</b></h3>
+  <p style="margin:0px; padding: 0px;">Breve descrição explicando o propósito do sistema!</p>
+  <a href=""><b>Explore a api >></b></a>
+</div>
   
 #### **Selos de qualidade**
 
