@@ -6,6 +6,7 @@
   <p style="margin:0px; padding: 0px;">Breve descrição explicando o propósito do sistema!</p>
   <a href=""><b>Explore a api >></b></a>
 </div>
+<br>
 <div style="margin:15px">
   <a href="">Squad</a> ·
   <a href="">Report Bug</a> ·
