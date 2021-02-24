@@ -1,5 +1,5 @@
   <div style="text-align:center" >
-    <img height="70" src="https://uploads-ssl.webflow.com/5d0a9843727236542bc670a9/5e42efe340f4174501d1eaf7_LogoGentrop%404x.png" /
+    <img height="70" src="https://uploads-ssl.webflow.com/5d0a9843727236542bc670a9/5e42efe340f4174501d1eaf7_LogoGentrop%404x.png" />
     <h3 style="font-size:20px; "><b>Nome do Sistema</b></h3>
     <p style="margin:0px; padding: 0px;">Breve descrição explicando o propósito do sistema!</p>
     <a href=""><b>Explore a api >></b></a>
@@ -9,7 +9,7 @@
       <a href="">Request Feature</a>
     </div>
   </div>
-
+  
 #### **Selos de qualidade**
 
 ****
