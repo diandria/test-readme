@@ -12,6 +12,7 @@
   <a href="">Report Bug</a> ·
   <a href="">Request Feature</a>
 </div>
+
 #### Selos de qualidade
 
 ****
